@@ -1,5 +1,5 @@
 {
-  "name": "mydb",
+  "name": "aiko-mydb",
   "version": "1.0.0",
   "description": "A flexible database wrapper supporting JSON and YAML formats.",
   "main": "index.js",
@@ -8,16 +8,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["database", "json", "yaml", "datastore", "nodejs"],
-  "author": "Your Name",
+  "author": "Furkan Görem",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/furkibuu/mydb.git"
+    "url": "https://github.com/furkibuu/aiko-mydb.git"
   },
   "bugs": {
-    "url": "https://github.com/furkibuu/mydb/issues"
+    "url": "https://github.com/furkibuu/aiko-mydb/issues"
   },
-  "homepage": "https://github.com/furkibuu/mydb#readme",
+  "homepage": "https://github.com/furkibuu/aiko-mydb#readme",
   "dependencies": {
     "js-yaml": "^4.1.0"
   },
