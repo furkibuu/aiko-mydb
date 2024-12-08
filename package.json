@@ -1,0 +1,25 @@
+{
+  "name": "mydb",
+  "version": "1.0.0",
+  "description": "A flexible database wrapper supporting JSON and YAML formats.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["database", "json", "yaml", "datastore", "nodejs"],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furkibuu/mydb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/furkibuu/mydb/issues"
+  },
+  "homepage": "https://github.com/furkibuu/mydb#readme",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {}
+}
